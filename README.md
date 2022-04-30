@@ -58,7 +58,7 @@ spawn(function() -- Anti AFK
 end)
 
 
-local library = loadstring(game:HttpGet(('')))()
+local library = loadstring(game:HttpGet(('https://gist.githubusercontent.com/vlixby/5c55451c3ab57d6d83ce792a26baf409/raw/f014b6256dc4c18c068a79bebefb68bf09f595c2/gistfile1.txt')))()
 
 local w = library:CreateWindow("Legends of Speed")
 
